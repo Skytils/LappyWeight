@@ -64,7 +64,7 @@ internal val dungeonExperienceTable = listOf(
     569809640,
     2147483647
 )
-internal val dungeonMaxXP = 569809640
+internal val dungeonMaxXP = 569809640.0
 internal val dungeonOverall = 0.81522766192742
 internal val dungeonCompletionWorth = listOf(
     0.0827,
@@ -154,7 +154,7 @@ internal val skillXPPerLevel = listOf(
     6700000,
     7000000
 )
-internal val skillMaxXP = 111672425
+internal val skillMaxXP = 111672425.0
 internal val skillOverflowMultipliers = listOf(
     6.3207,
     9.2003,
